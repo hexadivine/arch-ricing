@@ -12,3 +12,6 @@ cp ./configs/waybar.conf ~/.config/waybar/config
 
 # Hyprlock conf
 cp ./configs/hyprlock.conf ~/.config/hypr/hyprlock.conf
+
+# Hypridle conf
+cp ./configs/hypridle.conf ~/.config/hypr/hypridle.conf

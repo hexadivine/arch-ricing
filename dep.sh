@@ -16,5 +16,5 @@ then
 fi
 
 
-yay -S --needed hyprshot
+yay -S --needed hyprshot hypridle
 
