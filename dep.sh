@@ -1,7 +1,11 @@
 #!/bin/bash
 
 
+# Customisation
 sudo pacman -S --needed waybar ttf-font-awesole hyprlock
+
+# For media
+#sudo pacman -S --needed vlc mpv ffmpeg gst-libav gst-plugins-good gst-plugins-bad gst-plugins-ugly
 
 
 # Install yay
